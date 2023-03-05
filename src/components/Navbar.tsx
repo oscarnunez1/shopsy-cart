@@ -1,5 +1,9 @@
+import { Navbar as BootstrapNav } from "react-bootstrap"
+
 export function Navbar() {
   return (
-    <h1>Navbar</h1>
+    <BootstrapNav>
+      Navbar
+    </BootstrapNav>
   )
 }
