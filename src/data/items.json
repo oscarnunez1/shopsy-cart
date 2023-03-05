@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Guitar",
+    "price": 999,
+    "imgUrl": "/imgs/fender-guitar.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iMac",
+    "price": 1999,
+    "imgUrl": "/imgs/imac-desktop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pineapple",
+    "price": 3.50,
+    "imgUrl": "/imgs/pineapple.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tesla",
+    "price": 80000,
+    "imgUrl": "/imgs/tesla.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Playstation 5",
+    "price": 14000,
+    "imgUrl": "/imgs/playstattion-5.jpg"
+  }
+
+]
