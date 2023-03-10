@@ -30,8 +30,7 @@ export function Navbar() {
               position: "absolute",
               bottom: 0,
               right: 0,
-              transform: "translate(10%, 35%"
-              
+              transform: "translate(10%, 35%)"
             }}
           >
             3
